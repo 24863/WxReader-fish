@@ -8,7 +8,7 @@
       "width": 480,
       "height": 800,
       "resizable": true,
-      "always_on_top": true,
+      "always_on_top": false,
       "dark_mode": false,
       "disabled_web_shortcuts": false,
       "hide_on_close": true,
